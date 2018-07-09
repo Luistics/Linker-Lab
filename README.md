@@ -20,7 +20,7 @@ $mkdir bin
 To create an output folder to hold the .class files. Then run the command
 
 ```console
-$javac -d bin/ src/oslinker/\*.java
+$javac -d bin/ src/oslinker/*.java
 ```
 
 to build the program.
